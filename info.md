@@ -2,8 +2,8 @@
 
 ## Befehlsübersicht
 
-* rsync (inkrementelles kopieren)
-* bg (Prozess in Hintergrund geben)
-* fg (Prozess in Vordergrund geben)
-* scp (Secure copy von...nach)
-* ls (Verzeichnisinhalt anzeigen)
+a. rsync (inkrementelles kopieren)
+b. bg (Prozess in Hintergrund geben)
+c. fg (Prozess in Vordergrund geben)
+d. scp (Secure copy von...nach)
+e. ls (Verzeichnisinhalt anzeigen)
