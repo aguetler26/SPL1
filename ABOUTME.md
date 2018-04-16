@@ -9,3 +9,8 @@
 * Cycling
 * Sailing
 * Skiing
+
+## Programming Skills
+* Java
+* Python
+* HTML
