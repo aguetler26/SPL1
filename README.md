@@ -8,3 +8,8 @@
 * github Registrierung
 * github "Erste Schritte"
 * git Grundlagen
+
+## Lokales Arbeiten mit git
+
+* git config erstellen
+* git repository clonen
